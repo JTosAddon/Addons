@@ -68,9 +68,9 @@
 			"repo" : "yyyyyu/Tree-of-Savior-Addons",
 			"twitter" : "y__y__u"
 		},
-+		{
-+			"repo" : "pocon307/ToS_Addons" ,
-+			"twitter" : "pocon_iidx"
+		{
+			"repo" : "pocon307/ToS_Addons" ,
+			"twitter" : "pocon_iidx"
  		}
 	]
 }
