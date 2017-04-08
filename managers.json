@@ -71,6 +71,10 @@
 		{
 			"repo" : "pocon307/ToS_Addons" ,
 			"twitter" : "pocon_iidx"
- 		}
+ 		},
+		{
+			"repo" : "R-ToS/ToS-Addon",
+			"twitter" : "r_gamejp"
+		}
 	]
 }
