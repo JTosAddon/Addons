@@ -21,9 +21,6 @@
 			"repo" : "MizukiBelhi/ExtendedUI"
 		},
 		{
-			"repo" : "Miei/TOS-lua"
-		},
-		{
 			"repo" : "Xanaxiel/ToS-Addons"
 		},
 		{
@@ -73,9 +70,6 @@
 		},
 		{
 			"repo" : "CooLowbro/Addons-TOS"
-		},
-		{
-			"repo" : "WatchGintama/highnoonTOS"
 		}
 	]
 }
