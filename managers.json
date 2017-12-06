@@ -83,6 +83,10 @@
 		{
 			"repo" : "weizlogy/tos",
 			"twitter" : "twihamatter"
+		},
+		{
+			"repo" : "DeaR/tos-addon",
+			"twitter" : "nayuri_aohime"
 		}
 	]
 }
