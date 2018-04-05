@@ -97,6 +97,9 @@
 		},
 		{
 			"repo" : "hiiwave/tosaddons"
+		},
+		{
+			"repo" : "menimani/TOSAddon"
 		}
 	]
 }
