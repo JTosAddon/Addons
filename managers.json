@@ -76,6 +76,9 @@
 		},
 		{
 			"repo" : "Kalafiorek/ToS-Addons"
+		},
+		{
+			"repo" : "xinxs/ToS-Addons"
 		}
 	]
 }
