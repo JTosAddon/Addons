@@ -80,6 +80,9 @@
 		{
 			"repo" : "xinxs/ToS-Addons"
 		},
+    {
+			"repo" : "ewewukek/tos-collection-helper"
+		},
 		{
 			"repo" : "Nasiko/Tree-of-Savior-TW-Addons"
 		}
