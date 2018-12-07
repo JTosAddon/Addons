@@ -103,6 +103,10 @@
 		},
 		{
 			"repo" : "ewewukek/tos-collection-helper"
+		},
+		{
+			"repo" : "tokageel/tos",
+			"twitter" : "leopa_tos"
 		}
 	]
 }
