@@ -123,6 +123,9 @@
 		},
 		{
 			"repo" : "BlackMages/ToS-Addons"
+		},
+		{
+			"repo" : "Hikonin/TosAddons"
 		}
 	]
 }
