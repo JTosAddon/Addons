@@ -125,7 +125,10 @@
 			"repo" : "BlackMages/ToS-Addons"
 		},
 		{
+			"repo" : "meldavy/tos-addons"
+		},
+    {
 			"repo" : "Hikonin/TosAddons"
-		}
+    }
 	]
 }
