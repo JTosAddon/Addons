@@ -142,6 +142,9 @@
 		{
 			"repo" : "vhocdev/ToSAddons",
 			"twitter" : "6b6f6f7a"
+		},
+		{
+    		"repo" : "haasaka-tos/TOSAddons"
 		}
 	]
 }
