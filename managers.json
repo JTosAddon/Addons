@@ -155,8 +155,11 @@
 		{
 			"repo" : "arkgolf-stack/TOS-addons-2"
 		},
-		{
-			"repo" : "arkgolf-stack/TOS-addons-3"
-		}
-	]
-}
+   		{
+   			"repo" : "arkgolf-stack/TOS-addons-3"
+   		},
+   		{
+   			"repo" : "8mada-8ma/TOSAddon"
+   		}
+   	]
+   }
