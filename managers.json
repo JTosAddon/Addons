@@ -157,6 +157,9 @@
 		},
 		{
 			"repo" : "arkgolf-stack/TOS-addons-3"
+		},
+		{
+			"repo" : "8mada-8ma/TOSAddon"
 		}
 	]
 }
